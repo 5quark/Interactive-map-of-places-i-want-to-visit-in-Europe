@@ -3,7 +3,7 @@ Interactive map of places where i want to visit. When you click on the markers, 
 	[Github page](https://github.com/Pubs-of-Oxfordshire-Map)
 
 
-For creating the map you can see below, i provided coordinates and instagram urls of the photos. Clicking to the marker pops up the instagram photo. 
+For creating the map that you can see below, i provided coordinates and instagram urls of the photos. Clicking to the marker pops up the instagram photo. 
 ![map of germany](https://user-images.githubusercontent.com/65399053/115022431-0f292500-9ec6-11eb-8053-4d9a8090fdc9.JPG)
 
 Right now i am trying to impove my code by doing the following steps:
