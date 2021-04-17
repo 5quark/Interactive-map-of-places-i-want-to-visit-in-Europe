@@ -6,7 +6,7 @@ Interactive map of places where i want to visit. When you click on the markers, 
 For creating the map that you can see below, i provided coordinates and instagram urls of the photos. Clicking to the markers pops up the instagram photo. <br/>
 ![map of germany](https://user-images.githubusercontent.com/65399053/115022431-0f292500-9ec6-11eb-8053-4d9a8090fdc9.JPG)
 <br/>
-Right now i am trying to impove my code by automaticaly adding photos to my map. One can easily add instagram photos to a saved folder in Instagram app. However, it is not a straightforward process to add those photos to the map i showed above. I am trying to implement a code that will transfer those saved photos into may map. 
+Right now i am trying to impove my code by automaticaly adding photos to my map. One can easily add instagram photos to a saved folder in Instagram app. However, it is not a straightforward process to add those photos to the map i showed above. I am trying to implement a code that will transfer those saved photos into my map. 
 
 Here are the steps i will take (includes problems i am facing right now):
 <br/>
