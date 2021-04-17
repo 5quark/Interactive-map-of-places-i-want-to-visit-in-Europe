@@ -12,7 +12,7 @@ Here are the steps i will take (includes problems i am facing right now):
 <br/>
 1.Below image shows the instagram website where the photos i saved from the Instagram app goes. <br/>
 ![germany list](https://user-images.githubusercontent.com/65399053/115020785-b9ec1400-9ec3-11eb-80c6-35249d2302a5.JPG) <br/>
-This web page is piravate and only accesible to my account. So I will use the html code of it ( probably javascript will cause some issues but i will provide the data accordingly) and extract instagram links of the individual photos, which those links are accessible by any browser.
+This web page is piravate and only accesible to my account. So I will use the html code of it ( probably javascript will cause some issues but i will provide the data accordingly) and extract instagram links of the individual photos, those links are accessible by any browser (photos themselves are not piravate, they are accesible by anyone).
 <br/>
 2. Next step will be extracting information from the individual photos. Each photo that i saved to my instagram "Germany" list includes adresses. I can't access to the address information by just looking at the html code, because they are hidden with the javascript barrier. I am looking for solutions for this. <br/>
 4. After that i will have to transform addresses into latitude and longitude, and i have already written code for that and it works. <br/>
