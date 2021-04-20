@@ -1,5 +1,5 @@
 # Interactive-map-of-Places-i-want-to-visit-in-europe-
-Interactive map of places where i want to visit. When you click on the markers, instagram photos that i saved will pop up. I was interested from this 
+Interactive map of places i want to visit. When you click on the markers, instagram photos that i saved will pop up. I was inspired from this 
 	[Github page](https://github.com/Pubs-of-Oxfordshire-Map)
 
 
